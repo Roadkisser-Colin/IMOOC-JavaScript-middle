@@ -1,0 +1,1 @@
+xmlns就是 XML namespace （XML命名空间）。如果你写的是XHTML文档，它就需要一个XML命名空间来规范它的语法。因为XHTML是用XML的语法来规范的HTML语言。这个标准就位于 http://www.w3.org/1999/xhtml 网址。所以要写上 <html xmlns="http://www.w3.org/1999/xhtml">
